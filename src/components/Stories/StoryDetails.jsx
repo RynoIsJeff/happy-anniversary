@@ -85,7 +85,7 @@ function StoryDetails() {
           <div className="story-text-container last">
             <div>
               <h3>Our future</h3>
-              <p className="date">2025 - Endlessly</p>
+              <p className="date">2025 - Endlessly ❤️</p>
               <p>{story4}</p>
             </div>
           </div>

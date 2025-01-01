@@ -70,7 +70,7 @@ function Story() {
             <div className="col-lg-6 col-md-6 text-container">
               <div className="story-text right-align-text">
                 <h3>Our future</h3>
-                <p className="date">2025 - Endlessly</p>
+                <p className="date">2025 - Endlessly ❤️</p>
                 <p className="story">{story4.substring(0, 215) + "..."}</p>
                 <Link to="/story-details#story4">Read More</Link>
               </div>
